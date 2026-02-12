@@ -11,8 +11,8 @@ for user in new_users:
 #nested dictionaries
 cities = {}
  
-cities['New York City'] = {'Country': 'United States', 'Population': '8.4 million', 'Fact': 'The Big Apple'}
-cities['Tokyo'] = {'Country': 'Japan', 'Population': '9.2 million', 'Fact': 'The largest metropolitan area in the world'}
-cities['Paris'] = {'Country': 'France', 'Population': '2.1 million', 'Fact': 'The City of Light'}
+cities['New York City'] = {'Country': 'United States', 'Population': 8400000 , 'Fact': 'The Big Apple'}
+cities['Tokyo'] = {'Country': 'Japan', 'Population': 9200000, 'Fact': 'The largest metropolitan area in the world'}
+cities['Paris'] = {'Country': 'France', 'Population': 2100000, 'Fact': 'The City of Light'}
 
 print(cities)
